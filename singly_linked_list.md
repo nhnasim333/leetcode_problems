@@ -24,4 +24,10 @@
 
 ---
 
+### Palindrome Linked List [Easy]
+
+🔗 https://leetcode.com/problems/palindrome-linked-list
+
+---
+
 
