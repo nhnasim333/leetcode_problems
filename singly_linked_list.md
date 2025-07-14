@@ -18,20 +18,3 @@
 
 ---
 
-### Reverse Linked List [Easy]
-
-🔗 https://leetcode.com/problems/reverse-linked-list
-
----
-
-### Palindrome Linked List [Easy]
-
-🔗 https://leetcode.com/problems/palindrome-linked-list
-
----
-
-### Delete Node in a Linked List [Medium]
-
-🔗 https://leetcode.com/problems/delete-node-in-a-linked-list
-
----
