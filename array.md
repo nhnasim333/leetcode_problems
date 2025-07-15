@@ -12,9 +12,9 @@
 
 ---
 
-### Two Sum [Easy]
+### Single Number [Easy]
 
-🔗 https://leetcode.com/problems/two-sum
+🔗 https://leetcode.com/problems/single-number
 
 ---
 
