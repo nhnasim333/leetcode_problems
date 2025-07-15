@@ -24,7 +24,7 @@
 
 ---
 
-### Two Sum [Easy]
+### Third Maximum Number [Easy]
 
 🔗 https://leetcode.com/problems/third-maximum-number
 
