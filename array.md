@@ -18,14 +18,14 @@
 
 ---
 
-### Two Sum [Easy]
+### Majority Element [Easy]
 
-🔗 https://leetcode.com/problems/two-sum
+🔗 https://leetcode.com/problems/majority-element
 
 ---
 
 ### Two Sum [Easy]
 
-🔗 https://leetcode.com/problems/two-sum
+🔗 https://leetcode.com/problems/third-maximum-number
 
 ---
