@@ -35,14 +35,13 @@
 🔗 https://leetcode.com/problems/delete-node-in-a-linked-list
 
 ---
+
 ### Remove Nth Node From End of List [Medium]
 
 🔗 https://leetcode.com/problems/remove-nth-node-from-end-of-list
 
 ---
 
-###  Remove Linked List Elements [Easy]
+### Remove Linked List Elements [Easy]
 
 🔗 https://leetcode.com/problems/remove-linked-list-elements
-
----
