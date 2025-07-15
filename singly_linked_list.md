@@ -41,4 +41,8 @@
 
 ---
 
+###  Remove Linked List Elements [Easy]
 
+🔗 https://leetcode.com/problems/remove-linked-list-elements
+
+---
