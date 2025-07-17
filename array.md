@@ -29,8 +29,22 @@
 🔗 https://leetcode.com/problems/third-maximum-number
 
 ---
+
 ### Remove Duplicates from Sorted Array [Easy]
 
 🔗 https://leetcode.com/problems/remove-duplicates-from-sorted-array
 
 ---
+
+### Longest Common Prefix [Easy]
+
+🔗 https://leetcode.com/problems/longest-common-prefix
+
+---
+
+### Longest Common Prefix [Easy]
+
+🔗 https://leetcode.com/problems/longest-common-prefix
+
+---
+
