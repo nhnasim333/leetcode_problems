@@ -44,7 +44,7 @@
 
 ### Longest Common Prefix [Easy]
 
-🔗 https://leetcode.com/problems/longest-common-prefix
+🔗 https://leetcode.com/problems/search-insert-position
 
 ---
 
