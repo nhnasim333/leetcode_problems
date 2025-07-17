@@ -29,3 +29,8 @@
 🔗 https://leetcode.com/problems/third-maximum-number
 
 ---
+### Remove Duplicates from Sorted Array [Easy]
+
+🔗 https://leetcode.com/problems/remove-duplicates-from-sorted-array
+
+---
