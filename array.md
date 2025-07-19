@@ -89,3 +89,9 @@
 🔗 https://leetcode.com/problems/assign-cookies
 
 ---
+
+### Max Consecutive Ones [Easy]
+
+🔗 https://leetcode.com/problems/max-consecutive-ones
+
+---
