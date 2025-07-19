@@ -95,3 +95,9 @@
 🔗 https://leetcode.com/problems/max-consecutive-ones
 
 ---
+
+### Teemo Attacking [Easy]
+
+🔗 https://leetcode.com/problems/teemo-attacking
+
+---
