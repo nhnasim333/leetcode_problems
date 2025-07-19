@@ -48,3 +48,20 @@
 
 ---
 
+### Plus One [Easy]
+
+🔗 https://leetcode.com/problems/plus-one
+
+---
+
+### Merge Sorted Array [Easy]
+
+🔗 https://leetcode.com/problems/merge-sorted-array
+
+---
+
+<!-- ### Merge Sorted Array [Easy]
+
+🔗 https://leetcode.com/problems/merge-sorted-array
+
+--- -->
