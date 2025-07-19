@@ -60,8 +60,8 @@
 
 ---
 
-<!-- ### Merge Sorted Array [Easy]
+### Merge Sorted Array [Easy]
 
 🔗 https://leetcode.com/problems/merge-sorted-array
 
---- -->
+---
