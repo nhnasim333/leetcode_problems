@@ -60,8 +60,8 @@
 
 ---
 
-### Merge Sorted Array [Easy]
+### Container With Most Water [Easy]
 
-🔗 https://leetcode.com/problems/merge-sorted-array
+🔗 https://leetcode.com/problems/container-with-most-water
 
 ---
