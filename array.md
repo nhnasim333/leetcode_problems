@@ -60,7 +60,7 @@
 
 ---
 
-### Container With Most Water [Easy]
+### Container With Most Water [Medium]
 
 🔗 https://leetcode.com/problems/container-with-most-water
 
