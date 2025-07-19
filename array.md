@@ -107,3 +107,9 @@
 🔗 https://leetcode.com/problems/array-partition
 
 ---
+
+### Distribute Candies [Easy]
+
+🔗 https://leetcode.com/problems/distribute-candies
+
+---
