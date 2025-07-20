@@ -113,3 +113,9 @@
 🔗 https://leetcode.com/problems/distribute-candies
 
 ---
+
+### Longest Harmonious Subsequence [Easy]
+
+🔗 https://leetcode.com/problems/longest-harmonious-subsequence
+
+---
