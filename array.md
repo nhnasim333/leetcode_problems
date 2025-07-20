@@ -119,3 +119,9 @@
 🔗 https://leetcode.com/problems/longest-harmonious-subsequence
 
 ---
+
+### Range Addition II [Easy]
+
+🔗 https://leetcode.com/problems/range-addition-ii
+
+---
