@@ -132,8 +132,8 @@
 
 ---
 
-### Maximum Product of Three Numbers [Easy]
+### Baseball Game [Easy]
 
-🔗 https://leetcode.com/problems/maximum-product-of-three-numbers
+🔗 https://leetcode.com/problems/baseball-game
 
 ---
