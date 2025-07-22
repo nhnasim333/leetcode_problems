@@ -137,3 +137,9 @@
 🔗 https://leetcode.com/problems/baseball-game
 
 ---
+
+### Height Checker [Easy]
+
+🔗 https://leetcode.com/problems/height-checker
+
+---
