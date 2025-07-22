@@ -143,3 +143,9 @@
 🔗 https://leetcode.com/problems/height-checker
 
 ---
+
+### Relative Sort Array [Easy]
+
+🔗 https://leetcode.com/problems/relative-sort-array
+
+---
