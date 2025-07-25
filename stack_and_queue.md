@@ -17,3 +17,9 @@
 🔗 https://leetcode.com/problems/valid-parentheses
 
 ---
+
+### Backspace String Compare [Easy]
+
+🔗 https://leetcode.com/problems/backspace-string-compare
+
+---
