@@ -11,3 +11,9 @@
 🔗 https://leetcode.com/problems/implement-queue-using-stacks
 
 ---
+
+### Valid Parentheses [Easy]
+
+🔗 https://leetcode.com/problems/valid-parentheses
+
+---
