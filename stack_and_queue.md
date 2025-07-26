@@ -23,3 +23,9 @@
 🔗 https://leetcode.com/problems/backspace-string-compare
 
 ---
+
+### Min Stack [Easy]
+
+🔗 https://leetcode.com/problems/min-stack
+
+---
