@@ -29,3 +29,9 @@
 🔗 https://leetcode.com/problems/min-stack
 
 ---
+
+### Remove All Adjacent Duplicates In String [Easy]
+
+🔗 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+
+---
