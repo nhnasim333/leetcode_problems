@@ -41,3 +41,9 @@
 🔗 https://leetcode.com/problems/make-the-string-great
 
 ---
+
+### Crawler Log Folder [Easy]
+
+🔗 https://leetcode.com/problems/crawler-log-folder
+
+---
