@@ -29,3 +29,9 @@
 🔗 https://leetcode.com/problems/valid-palindrome
 
 ---
+
+### Excel Sheet Column Title [Easy]
+
+🔗 https://leetcode.com/problems/excel-sheet-column-title
+
+---
