@@ -41,3 +41,9 @@
 🔗 https://leetcode.com/problems/reverse-string
 
 ---
+
+### Excel Sheet Column Number [Easy]
+
+🔗 https://leetcode.com/problems/excel-sheet-column-number
+
+---
