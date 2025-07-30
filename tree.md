@@ -11,3 +11,9 @@
 🔗 https://leetcode.com/problems/binary-tree-preorder-traversal
 
 ---
+
+### Binary Tree Inorder Traversal [Easy]
+
+🔗 https://leetcode.com/problems/binary-tree-inorder-traversal
+
+---
