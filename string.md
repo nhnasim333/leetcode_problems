@@ -23,3 +23,27 @@
 🔗 https://leetcode.com/problems/length-of-last-word
 
 ---
+
+### Valid Palindrome [Easy]
+
+🔗 https://leetcode.com/problems/valid-palindrome
+
+---
+
+### Excel Sheet Column Title [Easy]
+
+🔗 https://leetcode.com/problems/excel-sheet-column-title
+
+---
+
+### Reverse String [Easy]
+
+🔗 https://leetcode.com/problems/reverse-string
+
+---
+
+### Excel Sheet Column Number [Easy]
+
+🔗 https://leetcode.com/problems/excel-sheet-column-number
+
+---
