@@ -17,3 +17,9 @@
 🔗 https://leetcode.com/problems/binary-tree-inorder-traversal
 
 ---
+
+### Sum of Left Leaves [Easy]
+
+🔗 https://leetcode.com/problems/sum-of-left-leaves
+
+---
