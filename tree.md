@@ -23,3 +23,9 @@
 🔗 https://leetcode.com/problems/sum-of-left-leaves
 
 ---
+
+### Maximum Depth of Binary Tree [Easy]
+
+🔗 https://leetcode.com/problems/maximum-depth-of-binary-tree
+
+---
