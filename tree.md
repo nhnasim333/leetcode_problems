@@ -29,3 +29,9 @@
 🔗 https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 ---
+
+### Root Equals Sum of Children [Easy]
+
+🔗 https://leetcode.com/problems/root-equals-sum-of-children
+
+---
