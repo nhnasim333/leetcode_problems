@@ -35,3 +35,9 @@
 🔗 https://leetcode.com/problems/root-equals-sum-of-children
 
 ---
+
+### Univalued Binary Tree [Easy]
+
+🔗 https://leetcode.com/problems/univalued-binary-tree
+
+---
