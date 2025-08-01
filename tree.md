@@ -53,3 +53,9 @@
 🔗 https://leetcode.com/problems/leaf-similar-trees
 
 ---
+
+### Same Tree [Easy]
+
+🔗 https://leetcode.com/problems/same-tree
+
+---
