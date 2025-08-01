@@ -47,3 +47,9 @@
 🔗 https://leetcode.com/problems/invert-binary-tree
 
 ---
+
+### Leaf-Similar Trees [Easy]
+
+🔗 https://leetcode.com/problems/leaf-similar-trees
+
+---
