@@ -59,3 +59,9 @@
 🔗 https://leetcode.com/problems/same-tree
 
 ---
+
+### Diameter of Binary Tree [Easy]
+
+🔗 https://leetcode.com/problems/diameter-of-binary-tree
+
+---
