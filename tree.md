@@ -71,3 +71,9 @@
 🔗 https://leetcode.com/problems/binary-tree-right-side-view
 
 ---
+
+### Convert Sorted Array to Binary Search Tree [Medium]
+
+🔗 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+
+---
