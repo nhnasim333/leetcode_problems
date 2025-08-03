@@ -77,3 +77,9 @@
 🔗 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
 
 ---
+
+### Search in a Binary Search Tree [Medium]
+
+🔗 https://leetcode.com/problems/search-in-a-binary-search-tree
+
+---
