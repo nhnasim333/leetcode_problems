@@ -83,3 +83,9 @@
 🔗 https://leetcode.com/problems/search-in-a-binary-search-tree
 
 ---
+
+### Range Sum of BST [Medium]
+
+🔗 https://leetcode.com/problems/range-sum-of-bst
+
+---
