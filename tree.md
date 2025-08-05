@@ -89,3 +89,9 @@
 🔗 https://leetcode.com/problems/range-sum-of-bst
 
 ---
+
+### Maximum Product of Two Elements in an Array [Medium]
+
+🔗 https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
+
+---
