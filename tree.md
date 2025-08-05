@@ -101,3 +101,9 @@
 🔗 https://leetcode.com/problems/minimum-absolute-difference-in-bst
 
 ---
+
+### Increasing Order Search Tree [Medium]
+
+🔗 https://leetcode.com/problems/increasing-order-search-tree
+
+---
