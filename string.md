@@ -59,3 +59,9 @@
 🔗 https://leetcode.com/problems/reverse-vowels-of-a-string
 
 ---
+
+### Buddy Strings [Easy]
+
+🔗 https://leetcode.com/problems/buddy-strings
+
+---
