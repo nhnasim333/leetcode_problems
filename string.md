@@ -77,3 +77,9 @@
 🔗 https://leetcode.com/problems/valid-anagram
 
 ---
+
+### Sorting the Sentence [Easy]
+
+🔗 https://leetcode.com/problems/sorting-the-sentence
+
+---
