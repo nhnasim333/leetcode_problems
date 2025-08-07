@@ -71,3 +71,9 @@
 🔗 https://leetcode.com/problems/reverse-only-letters
 
 ---
+
+### Valid Anagram [Easy]
+
+🔗 https://leetcode.com/problems/valid-anagram
+
+---
