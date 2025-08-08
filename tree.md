@@ -113,3 +113,9 @@
 🔗 https://leetcode.com/problems/kth-largest-element-in-an-array
 
 ---
+
+### Last Stone Weight [Easy]
+
+🔗 https://leetcode.com/problems/last-stone-weight
+
+---
