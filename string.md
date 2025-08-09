@@ -89,3 +89,9 @@
 🔗 https://leetcode.com/problems/delete-columns-to-make-sorted
 
 ---
+
+### Long Pressed Name [Easy]
+
+🔗 https://leetcode.com/problems/long-pressed-name
+
+---
