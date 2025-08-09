@@ -83,3 +83,9 @@
 🔗 https://leetcode.com/problems/sorting-the-sentence
 
 ---
+
+### Delete Columns to Make Sorted [Easy]
+
+🔗 https://leetcode.com/problems/delete-columns-to-make-sorted
+
+---
