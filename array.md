@@ -161,3 +161,9 @@
 🔗 https://leetcode.com/problems/missing-number/description
 
 ---
+
+### Find the Difference [Easy]
+
+🔗 https://leetcode.com/problems/find-the-difference
+
+---
