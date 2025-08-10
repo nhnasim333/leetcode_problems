@@ -155,3 +155,9 @@
 🔗 https://leetcode.com/problems/squares-of-a-sorted-array
 
 ---
+
+### Missing Number [Easy]
+
+🔗 https://leetcode.com/problems/missing-number/description
+
+---
