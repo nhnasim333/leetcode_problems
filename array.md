@@ -173,3 +173,9 @@
 🔗 https://leetcode.com/problems/median-of-two-sorted-arrays
 
 ---
+
+### First Missing Positive [Hard]
+
+🔗 https://leetcode.com/problems/first-missing-positive
+
+---
