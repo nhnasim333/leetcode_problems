@@ -179,3 +179,9 @@
 🔗 https://leetcode.com/problems/first-missing-positive
 
 ---
+
+### Longest Consecutive Sequence [Medium]
+
+🔗 https://leetcode.com/problems/longest-consecutive-sequence
+
+---
