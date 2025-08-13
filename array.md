@@ -185,3 +185,9 @@
 🔗 https://leetcode.com/problems/longest-consecutive-sequence
 
 ---
+
+### Majority Element II [Medium]
+
+🔗 https://leetcode.com/problems/majority-element-ii
+
+---
