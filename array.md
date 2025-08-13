@@ -197,3 +197,9 @@
 🔗 https://leetcode.com/problems/sort-characters-by-frequency
 
 ---
+
+### Ransom Note [Easy]
+
+🔗 https://leetcode.com/problems/ransom-note
+
+---
