@@ -191,3 +191,9 @@
 🔗 https://leetcode.com/problems/majority-element-ii
 
 ---
+
+### Sort Characters By Frequency [Medium]
+
+🔗 https://leetcode.com/problems/sort-characters-by-frequency
+
+---
