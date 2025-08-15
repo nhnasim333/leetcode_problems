@@ -29,3 +29,9 @@
 🔗 https://leetcode.com/problems/add-binary
 
 ---
+
+### Sqrt(x) [Easy]
+
+🔗 https://leetcode.com/problems/sqrtx
+
+---
