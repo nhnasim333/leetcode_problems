@@ -11,3 +11,9 @@
 🔗 https://leetcode.com/problems/divide-two-integers
 
 ---
+
+### Palindrome Number [Easy]
+
+🔗 https://leetcode.com/problems/palindrome-number
+
+---
