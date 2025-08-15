@@ -17,3 +17,9 @@
 🔗 https://leetcode.com/problems/palindrome-number
 
 ---
+
+### Power of Four [Easy]
+
+🔗 https://leetcode.com/problems/power-of-four
+
+---
