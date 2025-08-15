@@ -23,3 +23,9 @@
 🔗 https://leetcode.com/problems/power-of-four
 
 ---
+
+### Add Binary [Easy]
+
+🔗 https://leetcode.com/problems/add-binary
+
+---
