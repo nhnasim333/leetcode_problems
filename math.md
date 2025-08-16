@@ -35,3 +35,9 @@
 🔗 https://leetcode.com/problems/sqrtx
 
 ---
+
+### Climbing Stairs [Easy]
+
+🔗 https://leetcode.com/problems/climbing-stairs
+
+---
