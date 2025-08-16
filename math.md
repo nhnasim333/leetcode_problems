@@ -41,3 +41,9 @@
 🔗 https://leetcode.com/problems/climbing-stairs
 
 ---
+
+### Maximum 69 Number [Easy]
+
+🔗 https://leetcode.com/problems/maximum-69-number
+
+---
