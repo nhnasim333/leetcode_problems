@@ -47,3 +47,9 @@
 🔗 https://leetcode.com/problems/maximum-69-number
 
 ---
+
+### Happy Number [Easy]
+
+🔗 https://leetcode.com/problems/happy-number
+
+---
