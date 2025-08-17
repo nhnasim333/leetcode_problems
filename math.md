@@ -54,8 +54,14 @@
 
 ---
 
-### New 21 Game [Easy]
+### New 21 Game [Medium]
 
 🔗 https://leetcode.com/problems/new-21-game
+
+---
+
+### Poor Pigs [Hard]
+
+🔗 https://leetcode.com/problems/poor-pigs
 
 ---
