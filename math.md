@@ -53,3 +53,9 @@
 🔗 https://leetcode.com/problems/happy-number
 
 ---
+
+### New 21 Game [Easy]
+
+🔗 https://leetcode.com/problems/new-21-game
+
+---
