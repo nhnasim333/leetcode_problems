@@ -66,8 +66,14 @@
 
 ---
 
-### Power of Two [Hard]
+### Power of Two [Easy]
 
 🔗 https://leetcode.com/problems/power-of-two
+
+---
+
+### Add Digits [Easy]
+
+🔗 https://leetcode.com/problems/add-digits
 
 ---
