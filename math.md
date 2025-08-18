@@ -65,3 +65,9 @@
 🔗 https://leetcode.com/problems/poor-pigs
 
 ---
+
+### Power of Two [Hard]
+
+🔗 https://leetcode.com/problems/power-of-two
+
+---
