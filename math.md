@@ -77,3 +77,9 @@
 🔗 https://leetcode.com/problems/add-digits
 
 ---
+
+### Ugly Number [Easy]
+
+🔗 https://leetcode.com/problems/ugly-number
+
+---
