@@ -119,3 +119,9 @@
 🔗 https://leetcode.com/problems/last-stone-weight
 
 ---
+
+### Next Greater Element I [Easy]
+
+🔗 https://leetcode.com/problems/next-greater-element-i
+
+---
