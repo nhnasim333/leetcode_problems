@@ -131,3 +131,9 @@
 🔗 https://leetcode.com/problems/reverse-prefix-of-word
 
 ---
+
+### Final Prices With a Special Discount in a Shop [Easy]
+
+🔗 https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
+
+---
