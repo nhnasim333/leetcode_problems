@@ -125,3 +125,9 @@
 🔗 https://leetcode.com/problems/next-greater-element-i
 
 ---
+
+### Reverse Prefix of Word [Easy]
+
+🔗 https://leetcode.com/problems/reverse-prefix-of-word
+
+---
