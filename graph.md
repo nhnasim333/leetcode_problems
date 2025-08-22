@@ -23,3 +23,9 @@
 🔗 https://leetcode.com/problems/merge-two-sorted-lists
 
 ---
+
+### Find the Minimum Area to Cover All Ones I [Medium]
+
+🔗 https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
+
+---
