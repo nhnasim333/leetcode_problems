@@ -83,3 +83,9 @@
 🔗 https://leetcode.com/problems/ugly-number
 
 ---
+
+### Smallest Good Base [Hard]
+
+🔗 https://leetcode.com/problems/smallest-good-base
+
+---
