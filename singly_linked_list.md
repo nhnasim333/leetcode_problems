@@ -53,3 +53,9 @@
 🔗 https://leetcode.com/problems/reorder-list
 
 ---
+
+### Reverse Nodes in k-Group [Hard]
+
+🔗 https://leetcode.com/problems/reverse-nodes-in-k-group
+
+---
