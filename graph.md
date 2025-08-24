@@ -35,3 +35,9 @@
 🔗 https://leetcode.com/problems/find-if-path-exists-in-graph
 
 ---
+
+### Island Perimeter [Easy]
+
+🔗 https://leetcode.com/problems/island-perimeter
+
+---
