@@ -29,3 +29,9 @@
 🔗 https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
 
 ---
+
+### Find If Path Exists in Graph [Easy]
+
+🔗 https://leetcode.com/problems/find-if-path-exists-in-graph
+
+---
