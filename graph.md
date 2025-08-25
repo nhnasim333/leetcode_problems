@@ -41,3 +41,9 @@
 🔗 https://leetcode.com/problems/island-perimeter
 
 ---
+
+### Max Area of Island [Medium]
+
+🔗 https://leetcode.com/problems/max-area-of-island
+
+---
