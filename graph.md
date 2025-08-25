@@ -59,3 +59,9 @@
 🔗 https://leetcode.com/problems/count-sub-islands
 
 ---
+
+### Number of Closed Islands [Medium]
+
+🔗 https://leetcode.com/problems/number-of-closed-islands
+
+---
