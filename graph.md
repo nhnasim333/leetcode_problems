@@ -47,3 +47,9 @@
 🔗 https://leetcode.com/problems/max-area-of-island
 
 ---
+
+### Number of Islands [Medium]
+
+🔗 https://leetcode.com/problems/number-of-islands
+
+---
