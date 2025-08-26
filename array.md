@@ -203,3 +203,9 @@
 🔗 https://leetcode.com/problems/ransom-note
 
 ---
+
+### Maximum Area of Longest Diagonal Rectangle [Easy]
+
+🔗 https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
+
+---
