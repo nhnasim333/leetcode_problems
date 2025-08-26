@@ -65,3 +65,9 @@
 🔗 https://leetcode.com/problems/number-of-closed-islands
 
 ---
+
+### Course Schedule [Medium]
+
+🔗 https://leetcode.com/problems/course-schedule
+
+---
