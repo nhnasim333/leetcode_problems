@@ -77,3 +77,9 @@
 🔗 https://leetcode.com/problems/find-eventual-safe-states
 
 ---
+
+### Maximum Number of Fish in a Grid [Medium]
+
+🔗 https://leetcode.com/problems/maximum-number-of-fish-in-a-grid
+
+---
