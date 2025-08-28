@@ -101,3 +101,9 @@
 🔗 https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities
 
 ---
+
+### Map of Highest Peak [Medium]
+
+🔗 https://leetcode.com/problems/map-of-highest-peak
+
+---
