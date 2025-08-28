@@ -89,3 +89,9 @@
 🔗 https://leetcode.com/problems/surrounded-regions
 
 ---
+
+### Network Delay Time [Medium]
+
+🔗 https://leetcode.com/problems/network-delay-time
+
+---
