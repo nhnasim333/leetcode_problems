@@ -95,3 +95,9 @@
 🔗 https://leetcode.com/problems/network-delay-time
 
 ---
+
+### Minimum Score of a Path Between Two Cities [Medium]
+
+🔗 https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities
+
+---
