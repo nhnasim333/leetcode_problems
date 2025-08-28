@@ -107,3 +107,9 @@
 🔗 https://leetcode.com/problems/map-of-highest-peak
 
 ---
+
+### 01 Matrix [Medium]
+
+🔗 https://leetcode.com/problems/01-matrix
+
+---
