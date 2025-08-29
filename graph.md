@@ -113,3 +113,9 @@
 🔗 https://leetcode.com/problems/01-matrix
 
 ---
+
+### Battleships in a Board [Medium]
+
+🔗 https://leetcode.com/problems/battleships-in-a-board
+
+---
