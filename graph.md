@@ -119,3 +119,9 @@
 🔗 https://leetcode.com/problems/battleships-in-a-board
 
 ---
+
+### Minimum Number of Vertices to Reach All Nodes [Medium]
+
+🔗 https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
+
+---
