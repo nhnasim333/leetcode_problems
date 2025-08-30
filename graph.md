@@ -131,3 +131,9 @@
 🔗 https://leetcode.com/problems/shortest-path-in-binary-matrix
 
 ---
+
+### Number of Enclaves [Medium]
+
+🔗 https://leetcode.com/problems/number-of-enclaves
+
+---
