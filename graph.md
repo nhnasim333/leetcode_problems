@@ -125,3 +125,9 @@
 🔗 https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
 
 ---
+
+### Shortest Path in Binary Matrix [Medium]
+
+🔗 https://leetcode.com/problems/shortest-path-in-binary-matrix
+
+---
