@@ -101,3 +101,9 @@
 🔗 https://leetcode.com/problems/largest-3-same-digit-number-in-string
 
 ---
+
+### Convert a Number to Hexadecimal [Easy]
+
+🔗 https://leetcode.com/problems/convert-a-number-to-hexadecimal
+
+---
