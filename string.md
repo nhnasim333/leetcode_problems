@@ -107,3 +107,9 @@
 🔗 https://leetcode.com/problems/convert-a-number-to-hexadecimal
 
 ---
+
+### Relative Ranks [Easy]
+
+🔗 https://leetcode.com/problems/relative-ranks
+
+---
