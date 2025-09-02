@@ -143,3 +143,9 @@
 🔗 https://leetcode.com/problems/number-of-provinces
 
 ---
+
+### All Paths From Source to Target [Medium]
+
+🔗 https://leetcode.com/problems/all-paths-from-source-to-target
+
+---
