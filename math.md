@@ -89,3 +89,9 @@
 🔗 https://leetcode.com/problems/smallest-good-base
 
 ---
+
+### Divisor Game [Easy]
+
+🔗 https://leetcode.com/problems/divisor-game
+
+---
