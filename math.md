@@ -101,3 +101,9 @@
 🔗 https://leetcode.com/problems/water-bottles
 
 ---
+
+### Find Closest Person [Easy]
+
+🔗 https://leetcode.com/problems/find-closest-person
+
+---
