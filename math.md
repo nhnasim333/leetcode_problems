@@ -95,3 +95,9 @@
 🔗 https://leetcode.com/problems/divisor-game
 
 ---
+
+### Water Bottles [Easy]
+
+🔗 https://leetcode.com/problems/water-bottles
+
+---
