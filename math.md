@@ -113,3 +113,9 @@
 🔗 https://leetcode.com/problems/count-odd-numbers-in-an-interval-range
 
 ---
+
+### Count of Matches in Tournament [Easy]
+
+🔗 https://leetcode.com/problems/count-of-matches-in-tournament
+
+---
