@@ -107,3 +107,9 @@
 🔗 https://leetcode.com/problems/find-closest-person
 
 ---
+
+### Count Odd Numbers in an Interval Range [Easy]
+
+🔗 https://leetcode.com/problems/count-odd-numbers-in-an-interval-range
+
+---
