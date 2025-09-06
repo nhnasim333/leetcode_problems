@@ -119,3 +119,9 @@
 🔗 https://leetcode.com/problems/count-of-matches-in-tournament
 
 ---
+
+### Calculate Money in Leetcode Bank [Easy]
+
+🔗 https://leetcode.com/problems/calculate-money-in-leetcode-bank
+
+---
