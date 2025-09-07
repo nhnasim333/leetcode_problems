@@ -149,3 +149,9 @@
 🔗 https://leetcode.com/problems/all-paths-from-source-to-target
 
 ---
+
+### Nearest Exit from Entrance in Maze [Medium]
+
+🔗 https://leetcode.com/problems/nearest-exit-from-entrance-in-maze
+
+---
