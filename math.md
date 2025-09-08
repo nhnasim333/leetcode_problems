@@ -125,3 +125,9 @@
 🔗 https://leetcode.com/problems/calculate-money-in-leetcode-bank
 
 ---
+
+### Determine Color of a Chessboard Square [Easy]
+
+🔗 https://leetcode.com/problems/determine-color-of-a-chessboard-square
+
+---
