@@ -95,3 +95,57 @@
 🔗 https://leetcode.com/problems/divisor-game
 
 ---
+
+### Water Bottles [Easy]
+
+🔗 https://leetcode.com/problems/water-bottles
+
+---
+
+### Find Closest Person [Easy]
+
+🔗 https://leetcode.com/problems/find-closest-person
+
+---
+
+### Count Odd Numbers in an Interval Range [Easy]
+
+🔗 https://leetcode.com/problems/count-odd-numbers-in-an-interval-range
+
+---
+
+### Count of Matches in Tournament [Easy]
+
+🔗 https://leetcode.com/problems/count-of-matches-in-tournament
+
+---
+
+### Calculate Money in Leetcode Bank [Easy]
+
+🔗 https://leetcode.com/problems/calculate-money-in-leetcode-bank
+
+---
+
+### Determine Color of a Chessboard Square [Easy]
+
+🔗 https://leetcode.com/problems/determine-color-of-a-chessboard-square
+
+---
+
+### Convert Integer to the Sum of Two No-Zero Integers [Easy]
+
+🔗 https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers
+
+---
+
+### Fibonacci Number [Easy]
+
+🔗 https://leetcode.com/problems/fibonacci-number
+
+---
+
+### N-th Tribonacci Number [Easy]
+
+🔗 https://leetcode.com/problems/n-th-tribonacci-number
+
+---
