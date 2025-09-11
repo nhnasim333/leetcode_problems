@@ -113,3 +113,9 @@
 🔗 https://leetcode.com/problems/relative-ranks
 
 ---
+
+### Sort Vowels in a String [Easy]
+
+🔗 https://leetcode.com/problems/sort-vowels-in-a-string
+
+---
