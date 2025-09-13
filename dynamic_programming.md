@@ -17,3 +17,9 @@
 🔗 https://leetcode.com/problems/min-cost-climbing-stairs
 
 ---
+
+### Minimum Path Sum [Easy]
+
+🔗 https://leetcode.com/problems/minimum-path-sum
+
+---
