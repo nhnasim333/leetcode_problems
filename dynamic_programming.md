@@ -23,3 +23,9 @@
 🔗 https://leetcode.com/problems/minimum-path-sum
 
 ---
+
+### Pascal's Triangle [Easy]
+
+🔗 https://leetcode.com/problems/pascals-triangle
+
+---
