@@ -18,7 +18,7 @@
 
 ---
 
-### Minimum Path Sum [Easy]
+### Minimum Path Sum [Medium]
 
 🔗 https://leetcode.com/problems/minimum-path-sum
 
