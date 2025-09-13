@@ -125,3 +125,9 @@
 🔗 https://leetcode.com/problems/vowels-game-in-a-string
 
 ---
+
+### Find Most Frequent Vowel and Consonant [Easy]
+
+🔗 https://leetcode.com/problems/find-most-frequent-vowel-and-consonant
+
+---
