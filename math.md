@@ -149,3 +149,9 @@
 🔗 https://leetcode.com/problems/n-th-tribonacci-number
 
 ---
+
+### Sign of the Product of an Array [Easy]
+
+🔗 https://leetcode.com/problems/sign-of-the-product-of-an-array
+
+---
