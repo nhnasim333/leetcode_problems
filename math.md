@@ -155,3 +155,9 @@
 🔗 https://leetcode.com/problems/sign-of-the-product-of-an-array
 
 ---
+
+### Sum of Digits in Base K [Easy]
+
+🔗 https://leetcode.com/problems/sum-of-digits-in-base-k
+
+---
