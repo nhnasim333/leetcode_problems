@@ -167,3 +167,9 @@
 🔗 https://leetcode.com/problems/maximum-number-of-words-you-can-type
 
 ---
+
+### Sum of All Subset XOR Totals [Easy]
+
+🔗 https://leetcode.com/problems/sum-of-all-subset-xor-totals
+
+---
