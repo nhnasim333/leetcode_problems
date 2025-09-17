@@ -173,3 +173,9 @@
 🔗 https://leetcode.com/problems/sum-of-all-subset-xor-totals
 
 ---
+
+### Largest Odd Number in String [Easy]
+
+🔗 https://leetcode.com/problems/largest-odd-number-in-string
+
+---
