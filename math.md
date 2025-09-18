@@ -179,3 +179,9 @@
 🔗 https://leetcode.com/problems/largest-odd-number-in-string
 
 ---
+
+### Three Divisors [Easy]
+
+🔗 https://leetcode.com/problems/three-divisors
+
+---
