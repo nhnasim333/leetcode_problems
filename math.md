@@ -185,3 +185,9 @@
 🔗 https://leetcode.com/problems/three-divisors
 
 ---
+
+### Find Greatest Common Divisor of Array [Easy]
+
+🔗 https://leetcode.com/problems/find-greatest-common-divisor-of-array
+
+---
