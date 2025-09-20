@@ -191,3 +191,9 @@
 🔗 https://leetcode.com/problems/find-greatest-common-divisor-of-array
 
 ---
+
+### A Number After a Double Reversal [Easy]
+
+🔗 https://leetcode.com/problems/a-number-after-a-double-reversal
+
+---
