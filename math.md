@@ -197,3 +197,9 @@
 🔗 https://leetcode.com/problems/a-number-after-a-double-reversal
 
 ---
+
+### Minimum Sum of Four Digit Number After Splitting Digits [Easy]
+
+🔗 https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
+
+---
