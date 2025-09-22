@@ -209,3 +209,9 @@
 🔗 https://leetcode.com/problems/count-operations-to-obtain-zero
 
 ---
+
+### Count Elements with Maximum Frequency [Easy]
+
+🔗 https://leetcode.com/problems/count-elements-with-maximum-frequency
+
+---
