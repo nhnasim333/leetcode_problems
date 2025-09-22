@@ -203,3 +203,9 @@
 🔗 https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
 
 ---
+
+### Count Operations to Obtain Zero [Easy]
+
+🔗 https://leetcode.com/problems/count-operations-to-obtain-zero
+
+---
