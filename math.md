@@ -215,3 +215,9 @@
 🔗 https://leetcode.com/problems/count-elements-with-maximum-frequency
 
 ---
+
+### Count Integers with Even Digit Sum [Easy]
+
+🔗 https://leetcode.com/problems/count-integers-with-even-digit-sum
+
+---
