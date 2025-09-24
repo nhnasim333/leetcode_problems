@@ -221,3 +221,9 @@
 🔗 https://leetcode.com/problems/count-integers-with-even-digit-sum
 
 ---
+
+### Reverse Bits [Easy]
+
+🔗 https://leetcode.com/problems/reverse-bits
+
+---
