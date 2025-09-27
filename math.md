@@ -239,3 +239,9 @@
 🔗 https://leetcode.com/problems/find-the-k-beauty-of-a-number
 
 ---
+
+### Smallest Even Multiple [Easy]
+
+🔗 https://leetcode.com/problems/smallest-even-multiple
+
+---
