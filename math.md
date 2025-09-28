@@ -245,3 +245,9 @@
 🔗 https://leetcode.com/problems/smallest-even-multiple
 
 ---
+
+### Number of Common Factors [Easy]
+
+🔗 https://leetcode.com/problems/number-of-common-factors
+
+---
