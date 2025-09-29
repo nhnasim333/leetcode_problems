@@ -251,3 +251,9 @@
 🔗 https://leetcode.com/problems/number-of-common-factors
 
 ---
+
+### Average Value of Even Numbers That Are Divisible by Three [Easy]
+
+🔗 https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three
+
+---
