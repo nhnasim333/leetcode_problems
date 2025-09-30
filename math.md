@@ -257,9 +257,3 @@
 🔗 https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three
 
 ---
-
-### Sort Array By Parity [Easy]
-
-🔗 https://leetcode.com/problems/sort-array-by-parity
-
----

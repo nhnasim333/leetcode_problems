@@ -209,3 +209,9 @@
 🔗 https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
 
 ---
+
+### Sort Array By Parity [Easy]
+
+🔗 https://leetcode.com/problems/sort-array-by-parity
+
+---
