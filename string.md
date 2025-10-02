@@ -143,3 +143,9 @@
 🔗 https://leetcode.com/problems/reverse-string-ii
 
 ---
+
+### Check If Numbers Are Ascending in a Sentence [Easy]
+
+🔗 https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence
+
+---
