@@ -149,3 +149,9 @@
 🔗 https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence
 
 ---
+
+### Check If the Sentence Is Pangram [Easy]
+
+🔗 https://leetcode.com/problems/check-if-the-sentence-is-pangram
+
+---
