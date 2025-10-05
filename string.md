@@ -161,3 +161,9 @@
 🔗 https://leetcode.com/problems/sum-of-digits-of-string-after-convert
 
 ---
+
+### Rings and Rods [Easy]
+
+🔗 https://leetcode.com/problems/rings-and-rods
+
+---
