@@ -197,3 +197,5 @@
 🔗 https://leetcode.com/problems/minimum-time-difference
 
 ---
+
+https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=problem-list-v2&envId=string
