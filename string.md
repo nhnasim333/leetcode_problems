@@ -227,3 +227,9 @@ https://leetcode.com/problems/first-unique-character-in-a-string
 🔗 https://leetcode.com/problems/search-suggestions-system
 
 ---
+
+### Display Table of Food Orders in a Restaurant [Medium]
+
+🔗 https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant
+
+---
