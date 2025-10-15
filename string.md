@@ -225,3 +225,5 @@ https://leetcode.com/problems/first-unique-character-in-a-string
 ### Search Suggestions System [Medium]
 
 🔗 https://leetcode.com/problems/search-suggestions-system
+
+---
