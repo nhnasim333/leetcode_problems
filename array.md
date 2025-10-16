@@ -215,3 +215,9 @@
 🔗 https://leetcode.com/problems/sort-array-by-parity
 
 ---
+
+### Smallest Range II [Medium]
+
+🔗 https://leetcode.com/problems/smallest-range-ii
+
+---
