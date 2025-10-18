@@ -233,3 +233,9 @@
 🔗 https://leetcode.com/problems/word-break
 
 ---
+
+### Maximum Number of Distinct Elements After Operations [Medium]
+
+🔗 https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations
+
+---
