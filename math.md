@@ -269,3 +269,9 @@
 🔗 https://leetcode.com/problems/integer-to-roman
 
 ---
+
+### Multiply Strings [Medium]
+
+🔗 https://leetcode.com/problems/multiply-strings
+
+---
