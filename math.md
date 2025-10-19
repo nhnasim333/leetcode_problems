@@ -275,3 +275,9 @@
 🔗 https://leetcode.com/problems/multiply-strings
 
 ---
+
+### Rotate Image [Medium]
+
+🔗 https://leetcode.com/problems/rotate-image
+
+---
