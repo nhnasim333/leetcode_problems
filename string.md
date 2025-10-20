@@ -233,3 +233,9 @@ https://leetcode.com/problems/first-unique-character-in-a-string
 🔗 https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant
 
 ---
+
+### Lexicographically Smallest String After Applying Operations [Medium]
+
+🔗 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations
+
+---
