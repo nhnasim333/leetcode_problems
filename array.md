@@ -239,3 +239,9 @@
 🔗 https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations
 
 ---
+
+### Final Value of Variable After Performing Operations [Easy]
+
+🔗 https://leetcode.com/problems/final-value-of-variable-after-performing-operations
+
+---
