@@ -281,3 +281,9 @@
 🔗 https://leetcode.com/problems/rotate-image
 
 ---
+
+### Number of Steps to Reduce a Number to Zero [Medium]
+
+🔗 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
+
+---
