@@ -252,7 +252,7 @@
 
 ---
 
-### [Easy]
+### Unique Number of Occurrences [Easy]
 
 🔗 https://leetcode.com/problems/unique-number-of-occurrences
 
