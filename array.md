@@ -251,3 +251,9 @@
 🔗 https://leetcode.com/problems/largest-number-at-least-twice-of-others
 
 ---
+
+### [Easy]
+
+🔗 https://leetcode.com/problems/unique-number-of-occurrences
+
+---
