@@ -257,3 +257,9 @@
 🔗 https://leetcode.com/problems/unique-number-of-occurrences
 
 ---
+
+### Unique Number of Occurrences [Easy]
+
+🔗 https://leetcode.com/problems/find-lucky-integer-in-an-array
+
+---
