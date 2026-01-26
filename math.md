@@ -288,7 +288,7 @@
 
 ---
 
-### Number of Steps to Reduce a Number to Zero [Medium]
+### Convert the Temperature [Easy]
 
 🔗 https://leetcode.com/problems/convert-the-temperature
 
