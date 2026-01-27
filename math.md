@@ -299,3 +299,9 @@
 🔗 https://leetcode.com/problems/mirror-distance-of-an-integer
 
 ---
+
+### Mirror Distance of an Integer [Easy]
+
+🔗 https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i
+
+---
