@@ -300,7 +300,7 @@
 
 ---
 
-### Mirror Distance of an Integer [Easy]
+### Concatenate Non-Zero Digits and Multiply by Sum [Easy]
 
 🔗 https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i
 
