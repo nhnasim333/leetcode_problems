@@ -263,3 +263,9 @@
 🔗 https://leetcode.com/problems/find-lucky-integer-in-an-array
 
 ---
+
+### 3Sum [Medium]
+
+🔗 https://leetcode.com/problems/3sum
+
+---
