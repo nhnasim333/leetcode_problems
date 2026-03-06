@@ -305,3 +305,8 @@
 🔗 https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i
 
 ---
+### Concatenate Non-Zero Digits and Multiply by Sum [Easy]
+
+🔗 https://leetcode.com/problems/3sum
+
+---
